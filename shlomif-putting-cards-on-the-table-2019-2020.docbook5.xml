@@ -387,18 +387,20 @@ resources there.
         </info>
 
         <para>
-        Traditionally in history some great hackers have become so powerful
+        Traditionally in history, some great hackers have become so powerful
         that they took over the direction of the world and became a singular
         source of greatness. This is even though some of them were clearly
         or presumably fictional.
         </para>
 
         <para>
-        In <link xlink:href="https://memory-alpha.fandom.com/wiki/Grand_Nagus">the article about the Grand Nagus in Star Trek DS9</link>
-        , Quark is quoted as saying  «Oh believe me, the Nagus has the greatest
-        business mind in the entire Ferengi Alliance, always thinking ten,
-        sometimes twenty steps ahead of everyone else.» and this is similar for a hacker
-        monarch who is often ahead of the curve.
+        In <link
+        xlink:href="https://memory-alpha.fandom.com/wiki/Grand_Nagus">the
+        article about the Grand Nagus in Star Trek DS9</link> , Quark is quoted
+        as saying  «Oh believe me, the Nagus has the greatest business mind in
+        the entire Ferengi Alliance, always thinking ten, sometimes twenty
+        steps ahead of everyone else.» and this is similar for a hacker monarch
+        who is often ahead of the curve.
         </para>
 
         <para>
@@ -438,7 +440,7 @@ Some examples for Hacker Monarchs are:
         </listitem>
         <listitem>
         <para>
-        Muhammad
+        <link xlink:href="https://en.wikipedia.org/wiki/Muhammad">Muhammad</link>
         </para>
         </listitem>
         <listitem>
@@ -555,23 +557,57 @@ gloria mundi</link>) the previous hacker monarchs. <quote>We don’t die. We mul
 
 <para>
 Note that even a hacker monarch may be fallible. Socrates almost got himself
-killed several times until he willingly drank the poison. Plato and Aristotle
+killed several times, and then he willingly drank the poison and died.
+Plato and Aristotle
 said equally blasphemous things, but learned from Socrates' fate and worked on
 a better delivery so both died as highly reverred and respected. The same story
-repeated itself with Galileo and Isaac Newton.
+repeated itself during the Renaissance with Galileo and Isaac Newton.
 </para>
 
 <para>
 Many Hacker Monarchs were two steps forward and one step back, like the fact
-Ayn Rand was anti-Open and anti-Amateur and <link
+Ayn Rand was <link xlink:href="https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#honesty">anti-Open</link> and
+<link xlink:href="#amateurs">anti-Amateur</link> and <link
 xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=neo-tech-selfishness">confused
-selfishness with rational self growth</link>. So if you have a criticism
-against even the greatest hackers, voice it - we <link
+selfishness with rational self growth</link>.
+</para>
+
+<para>
+Moreover, I still resent the fact that the characters in
+<emphasis>Buffy</emphasis> were competent, but on the other hand socially inept
+and lacked sexual assertivity. This is a false dichotomy that I tried to
+rectify in <link xlink:href="https://www.shlomifish.org/humour/stories/">my
+stories and screenplays</link> where the characters are both competent and
+socially cabale.
+</para>
+
+<para>
+Having read <link
+xlink:href="https://en.wikipedia.org/wiki/The_Three_Musketeers"><emphasis>The
+Three Musketeers</emphasis></link>, Dumas’ magnum opus, I recall feeling
+intimated by the competence and resourcefulness of <link
+xlink:href="https://en.wikipedia.org/wiki/Milady_de_Winter">Milady de
+Winter</link>, until I eventually realised that despite being the antagonist,
+or because of that, she was the ultimate good in the book, and she became my
+epitome of sexiness in fiction. I disliked the fact that Dumas killed her that
+I set out a different destiny for her in <link
+xlink:href="https://www.shlomifish.org/humour/Selina-Mandrake/"><emphasis>Selina
+Mandrake - The Slayer</emphasis></link> and for <link
+xlink:href="https://buffy.fandom.com/wiki/Faith_Lehane">Faith</link> (her rough
+equivalent in Buffy) in <link
+xlink:href="https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/">Buffy
+- a Few Good Slayers</link>.
+</para>
+
+<para>
+So if you have a criticism against even the greatest hackers, voice it - we
+<link
 xlink:href="http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/">can
 only benefit from it</link>.  Also see <link
 xlink:href="https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes">The
 Emperor's New Clothes</link> .
 </para>
+
 </section>
 
 <section xml:id="make-your-own-kind-of-music">
@@ -603,19 +639,19 @@ environmentalists, psychologists and the media, to their advantage, and as a
 gimmick. As a result, they published many videos of them covering hit songs,
 some original songs, and have been live performing and collaborating with other
 singers and entertainers.
-    </para>
+</para>
 
-    <para>
-    Naturally, they are not the only YouTube success story. But if you
-    get an opportunity, seize it. Were you invited to give a talk? Go
-    for it. Even if you were invited from the "wrong" reason, you will
-    pave the road for future lecturers. A sociology student invited
-    you to talk to them about your work as an open source / open content
-    creator? Go for it. You thought of a new <link xlink:href="https://www.shlomifish.org/humour/bits/facts/">Chuck Norris/etc. factoid</link>? Write it
-    down and share it on social media and chat. Someone asked you out
-    and you like them and are single? Go for it. You have an idea for a
-    nice video, story, screenplay, song, etc. Execute it.
-    </para>
+<para>
+Naturally, they are not the only YouTube success story. But if you get an
+opportunity, seize it. Were you invited to give a talk? Go for it. Even if you
+were invited from the "wrong" reason, you will pave the road for future
+lecturers. A sociology student invited you to talk to them about your work as
+an open source / open content creator? Go for it. You thought of a new <link
+xlink:href="https://www.shlomifish.org/humour/bits/facts/">Chuck Norris/etc.
+factoid</link>? Write it down and share it on social media and chat. Someone
+asked you out and you like them and are single? Go for it. You have an idea for
+a nice video, story, screenplay, song, etc. Execute it.
+</para>
     </section>
 
     <section xml:id="time-is-much-more-important-than-money">
@@ -1469,3 +1505,5 @@ about Awk</link>
 
     </section>
 </article>
+<!-- vim: set indentexpr=
+-->
