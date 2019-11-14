@@ -1516,9 +1516,158 @@ https://www.shlomifish.org/humour/fortunes/joel-on-software.html#joel-camels-rub
     </info>
 
 <para>
-<link xlink:href="http://unarmed.shlomifish.org/1991.html">Sherlock Holmes
-about Awk</link>
+As I wrote in <link xlink:href="http://unarmed.shlomifish.org/1991.html">Sherlock Holmes
+    about Awk</link>:
 </para>
+
+    <blockquote>
+
+<para>
+  I enjoyed reading some of Sir Arthur Conan Doyle’s writings about the
+  fictional detective
+  <link xlink:href="http://en.wikipedia.org/wiki/Sherlock_Holmes">Sherlock
+  Holmes</link> when I was younger, which were entertaining (although
+  possibly distanced from the way actual crime investigation actually
+  works), and interesting. I vividly recall one excerpt from the very
+  first Sherlock Holmes story
+  <link xlink:href="http://en.wikisource.org/wiki/A_Study_in_Scarlet">A
+  Study in Scarlet</link>:
+</para>
+<blockquote>
+  <para>
+    His ignorance was as remarkable as his knowledge. Of contemporary
+    literature, philosophy and politics he appeared to know next to
+    nothing. Upon my quoting Thomas Carlyle, he enquired in the naivest
+    way who he might be and what he had done. My surprise reached a
+    climax, however, when I found incidentally that he was ignorant of
+    the Copernican Theory and of the composition of the Solar System.
+    That any civilized human being in this nineteenth century should not
+    be aware that the earth travelled round the sun appeared to be to me
+    such an extraordinary fact that I could hardly realize it.
+  </para>
+  <para>
+    &quot;You appear to be astonished,&quot; he said, smiling at my
+    expression of surprise. &quot;Now that I do know it I shall do my
+    best to forget it.&quot;
+  </para>
+  <para>
+    &quot;To forget it!&quot;
+  </para>
+  <para>
+    &quot;You see,&quot; he explained, &quot;I consider that a man's
+    brain originally is like a little empty attic, and you have to stock
+    it with such furniture as you choose. A fool takes in all the lumber
+    of every sort that he comes across, so that the knowledge which
+    might be useful to him gets crowded out, or at best is jumbled up
+    with a lot of other things, so that he has a difficulty in laying
+    his hands upon it. Now the skilful workman is very careful indeed as
+    to what he takes into his brain attic. He will have nothing but the
+    tools which may help him in doing his work, but of these he has a
+    large assortment, and all in the most perfect order. It is a mistake
+    to think that that little room has elastic walls and can distend to
+    any extent. Depend upon it there comes a time when for every
+    addition of knowledge you forget something that you knew before. It
+    is of the highest importance, therefore, not to have useless facts
+    elbowing out the useful ones.&quot;
+  </para>
+  <para>
+    &quot;But the Solar System!&quot; I protested.
+  </para>
+  <para>
+    &quot;What the deuce is it to me?&quot; he interrupted impatiently;
+    &quot;you say that we go round the sun. If we went round the moon it
+    would not make a pennyworth of difference to me or to my work.&quot;
+  </para>
+</blockquote>
+<para>
+  (<link xlink:href="http://en.wikisource.org/wiki/A_Study_in_Scarlet/Part_1/Chapter_2">Chapter
+  2 of A Study in Scarlet</link> by Sir Arthur Conan Doyle, under the
+  public domain in most countries.)
+</para>
+<para>
+  Conan Doyle was naturally exaggerating here in portraying the ideal of
+  Sherlock Holmes (as few, if any, human beings can forget that the
+  Earth revolves around the Sun), but the principle still stands: we
+  need to make a conscious decision of how to manage our memory, because
+  there is a limit to how many different aspects can put inside our
+  resident memory, or otherwise we'll forget more important stuff.
+</para>
+<para>
+  So what does it has to do with the Awk programming language? Many
+  decades after A Study in Scarlet,
+  <link xlink:href="http://www.catb.org/esr/">Eric S. Raymond</link> had
+  this to say in his book
+  <link xlink:href="http://www.catb.org/esr/writings/taoup/"><emphasis>The
+  Art of Unix Programming</emphasis></link>:
+</para>
+<blockquote>
+  <para>
+    A case study of awk is included to point out that it is not a model
+    for emulation; in fact, since 1990 it has largely fallen out of use.
+    It has been superseded by new-school scripting languages—notably
+    Perl, which was explicitly designed to be an awk killer. The reasons
+    are worthy of examination, because they constitute a bit of a
+    cautionary tale for minilanguage designers.
+  </para>
+  <para>
+    The awk language was originally designed to be a small, expressive
+    special-purpose language for report generation. Unfortunately, it
+    turns out to have been designed at a bad spot on the
+    complexity-vs.-power curve. The action language is noncompact, but
+    the pattern-driven framework it sits inside keeps it from being
+    generally applicable — that's the worst of both worlds. And the
+    new-school scripting languages can do anything awk can; their
+    equivalent programs are usually just as readable, if not more so.
+  </para>
+  <para>
+    For a few years after the release of Perl in 1987, awk remained
+    competitive simply because it had a smaller, faster implementation.
+    But as the cost of compute cycles and memory dropped, the economic
+    reasons for favoring a special-purpose language that was relatively
+    thrifty with both lost their force. Programmers increasingly chose
+    to do awklike things with Perl or (later) Python, rather than
+    <emphasis role="strong">keep two different scripting languages in
+    their heads</emphasis>.[90] By the year 2000 awk had become little
+    more than a memory for most old-school Unix hackers, and not a
+    particularly nostalgic one.
+  </para>
+  <para>
+    Falling costs have changed the tradeoffs in minilanguage design.
+    Restricting your design's capabilities to buy compactness may still
+    be a good idea, but doing so to economize on machine resources is a
+    bad one. Machine resources get cheaper over time, but
+    <emphasis role="strong">space in programmers' heads only gets more
+    expensive</emphasis>. Modern minilanguages can either be general but
+    noncompact, or specialized but very compact; specialized but
+    noncompact simply won't compete.
+  </para>
+</blockquote>
+<para>
+  (Emphasis mine.)
+</para>
+<para>
+  (<link xlink:href="http://www.catb.org/esr/writings/taoup/html/ch08s02.html#awk">Case
+  Study: awk in minilanguages</link> in <emphasis>The Art of Unix
+  Programming</emphasis> by Eric Steven Raymond, text available under
+  the Creative Commons Attribution-NonDerivatives licence, and hopefully
+  quoted here (with attribution) under
+  <link xlink:href="http://en.wikipedia.org/wiki/Fair_use">fair
+  use</link> auspices.)
+</para>
+    </blockquote>
+
+    <para>
+    I still keep awk out of my resident memory, but there are many other
+    things I do not remember or care enough to. For example, I do not remember
+    the names of the Israeli president or that of the <link
+    xlink:href="https://en.wikipedia.org/wiki/Chief_of_the_General_Staff_(Israel)">Israeli
+    Chief of the General Staff (Israel)</link>. I am almost sure they are
+    both great people, but remembering their names is pointless for me.
+    </para>
+
+    <para>
+    Hebrew is my mother language.
+    </para>
 
     </section>
 </article>
