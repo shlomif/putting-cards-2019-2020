@@ -977,6 +977,7 @@ a nice video, story, screenplay, song, etc. Execute it.
 
     <para>
     <link xlink:href="https://starwars.fandom.com/wiki/Yoda">Master Yoda</link>
+    from Star Wars
     is a <link xlink:href="#great-hackers">great
     hacker</link> despite being fictional, and we can learn a lot from what
     <link xlink:href="https://www.youtube.com/watch?v=kFnFr-DOPf8">he said
@@ -987,7 +988,7 @@ a nice video, story, screenplay, song, etc. Execute it.
 
 <para>
 
-Fear is the path to the dark side, fear leads to anger, anger leads to hate,
+Fear is the path to the dark side. Fear leads to anger, anger leads to hate,
 hate leads to suffering. And I sense much fear in you.
 
 </para>
@@ -1044,14 +1045,14 @@ or perish</link>.
 <para>
 (Note that there is also <link
 xlink:href="https://en.wikipedia.org/wiki/Google_Drive">Google Drive</link> and
-similar services, which is more friendly to
-laymen, has a web interface and has coarser grained revision history.)
+similar services, which are more friendly to
+laymen, have web interfaces, and have coarser grained revision history.)
 </para>
 
 <para>
 My <link xlink:href="https://www.shlomifish.org/me/contact-me/">contact
 info</link> is publicly available, and I actually wish for more people -
-of any sex/gender, ethnicity, talents and interest, race, nationality, etc.
+of any sex/gender, ethnicity, talents and interests, race, nationality, etc.
 - to contact me and chat in any plausible medium.
 </para>
 
@@ -1087,7 +1088,7 @@ So please do not be paranoid and overly possessive of your crown jewels.
     xlink:href="https://www.shlomifish.org/open-source/projects/">software</link>
     which I originated. However, I was non-plused by them and said I will be
     “OK with it”. People did not violate my trust, because I entrusted them
-    with the power to do so, which made them feel empowered - not despite it.
+    with the power to do so, which made them feel empowered.
     </para>
 
     <para>
@@ -1097,6 +1098,14 @@ So please do not be paranoid and overly possessive of your crown jewels.
     xlink:href="https://www.shlomifish.org/humour.html#if_ayn_rand_was_born_in_the_1990s">is
     not as farfetched as it sounds</link>), then he too would prefer using
     permissive licences when he could help it.
+    </para>
+
+    <para>
+    I met <link xlink:href="https://blog.wikimedia.org/2017/06/22/wilfredo-rodriguez/">Wilfredo Rodriguez</link> on freenode, and he notes that he
+    uses the public domain ( <link xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/">CC0</link> )
+    for most of his photos, so people can use them even without legally
+    be required to credit him or pay him. Nevertheless, some of them
+    do exactly that.
     </para>
 
     </section>
