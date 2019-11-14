@@ -312,13 +312,13 @@ lesser songs before that.
         xlink:href="https://buffyfanfiction.fandom.com/wiki/Selinaverse#Dispelling_in_the_Selinaverse">"dispelling"</link>)
         of the rules and prejudice of the show's more stigmatic geeks.
         </para>
-        <footnote xml:id="beauty_and_the_geek">
+        <footnote label="beauty-and-the-geek" xml:id="beauty_and_the_geek">
         <para>
-        While it is wrong to <link
+        It is wrong to <link
         xlink:href="https://www.shlomifish.org/humour.html#pbride_philosophers">look
         down on reality show contestants</link> (and more recently - YouTubers)
         who, like older forms of entertainers / philosophers, are seeking
-        recognition and fame, the show <link xlink:href="https://en.wikipedia.org/wiki/Beauty_and_the_Geek">Beauty and the Geek</link> was doomed
+        recognition and fame. However, the show <link xlink:href="https://en.wikipedia.org/wiki/Beauty_and_the_Geek">Beauty and the Geek</link> was doomed
         to failure because not only are most attractive girls increasingly
         attracted to geeks, but they are increasingly quite geeky
         themselves.
@@ -830,7 +830,7 @@ a nice video, story, screenplay, song, etc. Execute it.
     sexualised, not despite that.
     </para>
 
-<footnote>
+<footnote label="conclusion" xml:id="daily_gradvice_conclusion">
     <para>
     The end of the story is that I told my friend that I will try to prepare
     better subtitles for use by him and others. While his original
@@ -1160,7 +1160,7 @@ Similarly, <link xlink:href="https://en.wikipedia.org/wiki/Elizabeth_II">Queen
 Elizabeth II</link> has reportedly recently <link
 xlink:href="https://www.manchestereveningnews.co.uk/news/greater-manchester-news/guest-honour-queen-leaves-couple-685253">actually
 attended</link> a wedding to which a British couple invited her as a
-joke.<footnote><para>To quote <link
+joke.<footnote label="comedy-is-serious" xml:id="comedy_serious"><para>To quote <link
 xlink:href="https://en.wikiquote.org/wiki/Peter_Ustinov">Peter Ustinov</link>:
 «Comedy is simply a funny way of being serious».</para></footnote>
 </para>
@@ -1229,7 +1229,7 @@ a Little Help from My Friends"</link>.
         xlink:href="https://www.shlomifish.org/humour/stories/">stories</link>,
         I have tried to encourage women to become more sexually assertive, but
         it seems that most Israeli girls did not get the memo, and are still
-        shy and playing it hard to get.  <footnote><para>It is possible my site
+        shy and playing it hard to get.  <footnote label="israeli-popularity" xml:id="shlomifish_org_in_israel"><para>It is possible my site
         has not been as popular in Israel as it could be because it is written
         almost entirely in English and because I have not been too active on
         social media that is popular in Israel such as Facebook, Instagram, and
@@ -1322,7 +1322,7 @@ a Little Help from My Friends"</link>.
     or similar downloaders to download every video that we like from
     YouTube, and while some die hard copyright puritans have looked
     down on that, I still support that as a way to battle censorship.
-    <footnote>
+    <footnote label="Google vs. youtube-dl" xml:id="youtube-dl-DMCA">
     <para>
     Someone told me in a chat, that he believed that Google (who owns
         YouTube) will do a DMCA takedown for GitHub to censor youtube-dl,
