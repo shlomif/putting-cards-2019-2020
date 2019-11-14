@@ -1,0 +1,25 @@
+[id="intro"]
+== Introduction
+
+This essay aims to present a summary of a snapshot as of 2019 of my
+personal philosophy and ideology, titled
+https://www.shlomifish.org/me/rindolf/#rindolfism[Rindolfism], which is
+dynamic and subject to change.
+
+It largely builds upon a previous essay titled
+https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/[“Putting
+all the Cards on the Table (2013)”]
+
+I am really tired of having truly intellectual people like me "speak in
+riddles" and be somewhat dishonest, so I'd like to put as many of the
+cards I have now on the table. There will likely be more into the
+future, and moreover, honesty is a process and a person should strive to
+become more honest as time goes by.
+
+[id="build"]
+== How to build
+
+The important file is `./shlomif-putting-cards-on-the-table-2019-2020.docbook5.xml`
+which is in [DocBook 5/XML]https://en.wikipedia.org/wiki/DocBook format
+and can be converted to a different format using [Docmake]https://www.shlomifish.org/open-source/projects/docmake/ ,
+[xmlto]https://pagure.io/xmlto/ , [pandoc]https://pandoc.org/ or similar.
