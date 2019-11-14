@@ -20,6 +20,6 @@ become more honest as time goes by.
 == How to build
 
 The important file is `./shlomif-putting-cards-on-the-table-2019-2020.docbook5.xml`
-which is in [DocBook 5/XML]https://en.wikipedia.org/wiki/DocBook format
-and can be converted to a different format using [Docmake]https://www.shlomifish.org/open-source/projects/docmake/ ,
-[xmlto]https://pagure.io/xmlto/ , [pandoc]https://pandoc.org/ or similar.
+which is in https://en.wikipedia.org/wiki/DocBook[DocBook 5/XML] format
+and can be converted to a different format using https://www.shlomifish.org/open-source/projects/docmake/[Docmake] ,
+https://pagure.io/xmlto/[xmlto] , https://pandoc.org/[pandoc] or similar.
