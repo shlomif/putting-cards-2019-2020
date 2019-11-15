@@ -1470,8 +1470,41 @@ https://www.shlomifish.org/humour/fortunes/joel-on-software.html#joel-camels-rub
     <title>Four kinds of fools: avoiding prejudice</title>
     </info>
 
+  <blockquote>
+    <blockquote>
+<literallayout>There are two kinds of fools. One says, “This is old, and therefore good”.
+And one says, “This is new, and therefore better”.</literallayout>
+    </blockquote>
+    <para>
+      —
+      <link xlink:href="http://en.wikiquote.org/wiki/John_Brunner">John
+      Brunner</link>, <emphasis>The Shockwave Rider</emphasis>
+    </para>
+    <blockquote>
+<literallayout>Two more kinds of fools. One says: “This is popular, and therefore good”.
+The other says: “This is good because it’s not popular”.</literallayout>
+    </blockquote>
+    <para>
+      — Shlomi Fish (though may not be a 100% original sentiment).
+    </para>
+  </blockquote>
+
 <para>
-<link xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=two-kinds-of-fools">https://www.shlomifish.org/humour/fortunes/show.cgi?id=two-kinds-of-fools</link>
+It is important not to be prejudiced against things just because they are
+old, new, popular, unpopular, <link xlink:href="https://twitter.com/shlomif/status/1165982522091737088">seem like "a religion"</link>,
+were hyped, seem blasphmous or cringeworthy, are politically incorrect,
+etc.
+</para>
+
+<para>
+I've been criticised for still using <link xlink:href="https://en.wikipedia.org/wiki/XML">XML</link> and
+related technologies, because they seem to have fallen out of favour.
+But I have good reasons for using XML and use it fo different use cases
+than <link xlink:href="https://en.wikipedia.org/wiki/JSON">JSON</link>
+and <link xlink:href="https://en.wikipedia.org/wiki/YAML">YAML</link>
+and various <link
+xlink:href="https://en.wikipedia.org/wiki/Lightweight_markup_language">lightweight
+markup languages</link>, which I also use and like for different purposes.
 </para>
     </section>
     <section xml:id="encouraging-and-handling-criticism">
