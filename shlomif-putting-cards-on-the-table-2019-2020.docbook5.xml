@@ -590,7 +590,7 @@ xlink:href="https://en.wikipedia.org/wiki/Milady_de_Winter">Milady de
 Winter</link>, until I eventually realised that despite being the antagonist,
 or because of that, she was the ultimate good in the book, and she became my
 epitome of sexiness in fiction. I disliked the fact that Dumas killed her that
-I set out a different destiny for her in <link
+I set out to carve different destinies for her in <link
 xlink:href="https://www.shlomifish.org/humour/Selina-Mandrake/"><emphasis>Selina
 Mandrake - The Slayer</emphasis></link> and for <link
 xlink:href="https://buffy.fandom.com/wiki/Faith_Lehane">Faith</link> (her rough
@@ -767,6 +767,11 @@ a nice video, story, screenplay, song, etc. Execute it.
 
     </para>
 
+    <para>
+    Fame has got a bad reputation, but I believe it is undeserved.
+    Even if you are famous, you do not neccesarily have to suffer from it.
+    </para>
+
     </listitem>
 
     <listitem>
@@ -775,7 +780,7 @@ a nice video, story, screenplay, song, etc. Execute it.
     media went out of its way to present <link
     xlink:href="https://en.wikipedia.org/wiki/Paris_Hilton">Paris
     Hilton</link>, who was the canonical "alpha female" in the world throughout
-    many years between 2000 and 2014, as incompetent, talentless, stupid, and
+    several years between 2000 and 2014, as incompetent, talentless, stupid, and
     lucky to have been a heiress by birth. However, despite that, she was the
     opposite of most of these. Moreover, if she utilised her initial state to
     her own advantage, then all the power to her.
@@ -821,7 +826,7 @@ a nice video, story, screenplay, song, etc. Execute it.
     </info>
     <para>
     Some people may still think that sexual attractiveness is indicative of
-    incompetence and bad form, but it is the opposite. Back when
+    incompetence and bad form, but the opposite is true. Back when
     I referred a deaf friend of mine to the video <link xlink:href="https://www.youtube.com/watch?v=21uXcvD5lPs">Daily
     Gradvice</link> (tongue-in-cheek sex/love/etc. advice by <link xlink:href="https://en.wikipedia.org/wiki/Grace_Helbig">Grace Helbig</link>)
     he complained that the quality of the subtitles there (which
@@ -862,7 +867,7 @@ a nice video, story, screenplay, song, etc. Execute it.
     projects because he disliked them so much. I also said the high fee may
     yield <link
     xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=joel-camels-rubber-duckies-11">a
-    higher demand</link>.  Then I had a browser window open with the top
+    higher demand</link>.  Since, I had a browser window open with the top
     Twitter accounts and <link
     xlink:href="https://en.wikipedia.org/wiki/Taylor_Swift">Taylor Swift</link>
     was there and I noted she likely charges more than 300 USD/hour for her
@@ -1248,8 +1253,10 @@ a Little Help from My Friends"</link>.
 
         <para>
         What if you are interested in a one off sexual intercourse? Nothing
-        wrong with that, and you can learn about how to do it from Jazz from
-        The Fresh Prince of Bel-Air: <link
+        wrong with that, and you can learn about how to do it from Jazz (=
+        the name of one of the characters)
+        from
+        <link xlink:href="https://en.wikipedia.org/wiki/The_Fresh_Prince_of_Bel-Air">The Fresh Prince of Bel-Air</link>: <link
         xlink:href="https://www.youtube.com/watch?v=KcD7hvH0Wk8">"let's go get
         some barbecue and get busy"</link>. Or as DAILY GRADVICE put it for a
         girl trying to seduce a guy: <link
@@ -1337,8 +1344,8 @@ a Little Help from My Friends"</link>.
     Someone told me in a chat, that he believed that Google (who owns
         YouTube) will do a DMCA takedown for GitHub to censor youtube-dl,
     but even if they were stupid enough to do that (which I doubt), it
-    would not stop youtube-dl, whose open source public domain source
-    code has thousands of git clones and forks.
+    likely would not completely stop youtube-dl, whose open source public
+    domain source code has thousands of git clones and forks.
     </para>
     </footnote>
     </para>
@@ -1355,7 +1362,7 @@ a Little Help from My Friends"</link>.
 I believe that signed artists and creators (or the somewhat more professional
 ones) should <emphasis role="bold">emulate YouTubers</emphasis> and start indie
 channels where they post regular collaborations with other YouTubers: from the
-better known to the obscure.
+better known to the relatively obscure.
 </para>
 
     </section>
@@ -1431,7 +1438,7 @@ works under relatively restrictive licences such as <link
 xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
 Commons CC-by-nc-sa</link> or <link
 xlink:href="https://en.wikipedia.org/wiki/Affero_General_Public_License">the
-Affero GPL</link>, and either sell commercial or proprietary exceptions to the
+Affero GPL</link>, and sell commercial or proprietary exceptions to the
 licence.  Alternatively, they can ask for money to put it under a less
 restrictive licence such as <link
 xlink:href="https://creativecommons.org/licenses/by/4.0/">CC-by</link> , <link
@@ -1442,15 +1449,36 @@ xlink:href="https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public
 </para>
 </listitem>
 
+<listitem>
+<para>
+
+I have been doing software development commissions where I give a rough
+estimate of the time it will take me <link xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-multiply-by-pi">by multiplying by 3</link>
+and charge 50 USD / hour (which is a good rate in Israel) and I do not
+charge if the customer is unhappy with my deliverables. This is because
+I'd rather be considered
+a <link xlink:href="https://www.shlomifish.org/philosophy/computers/open-source/gpl-bsd-and-suckerism/">"sucker"</link>
+than acquire a new enemy.
+
+</para>
+
+<para>
+
+Note that the deliverables of a recent commission was <link xlink:href="https://github.com/shlomif/dosbox/commit/50a6334e3713d8647553aa8d1809c0243633cb60">made open source</link>
+by permission of the customer, because although he paid me to work on
+some change he needed, he was also happy to share it with the world at
+large.
+
+</para>
+
+</listitem>
+
 </orderedlist>
 <para>
 
 https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/
 
 https://github.com/nayafia/lemonade-stand
-
-my commissions - https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-multiply-by-pi ; charge 50 USD / hour and do not charge if the customer is
-unhappy.
 
 https://www.shlomifish.org/humour/fortunes/joel-on-software.html#joel-camels-rubber-duckies-1
 
