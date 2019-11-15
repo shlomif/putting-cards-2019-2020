@@ -1514,9 +1514,33 @@ effective than him.
 
 <para>
 Companies can change too. Under its new leadership, Microsoft has open sourced
-many projects and also <link xlink:href="https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/">bought GitHub</link>.
+many projects, or developed them as open source to begin with. It also <link
+xlink:href="https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/">acquired
+GitHub</link>, and despite some predictions of doom and gloom from
+<link xlink:href="#fear-is-path-to-dark-side">paranoid</link> users, it seems
+that the user experience (= "UX") of GitHub has improved since the
+acquisition.
 </para>
 
+<para>
+Naturally, there are some paranoid "conspiracy theories" about evil Microsoft
+intentions to secretly take over and dominate the open source world. I on the
+other hand, try <link xlink:href="#hakuna-matata">to avoid worrying ("Hakuna
+Matata")</link> about such farfetched scenarios before they have materialised.
+I still recall some clueless users of Microsoft software saying that "Microsoft
+will buy Linux!" in the mid-to-late 1990s, and that naturally didn't happen
+because of the <link
+xlink:href="https://en.wikipedia.org/wiki/Free_and_open-source_software">FOSS</link>
+nature of the licences (whether <link xlink:href="https://en.wikipedia.org/wiki/Copyleft">copyleft</link> or <link xlink:href="https://en.wikipedia.org/wiki/Permissive_software_licence">permissive</link>), and the superior <link
+xlink:href="#amateurs">amateur</link>-based model of development.
+</para>
+
+<para>
+As the Chuck Norris factoid I came up with <link
+xlink:href="https://twitter.com/shlomif/status/1175452478273478656">goes</link>:
+<quote>Chuck Norris' round house kicks are licensed under the public domain
+because no one else can successfully emulate them.</quote>
+</para>
 </section>
     <section xml:id="four-kinds-of-fools">
 
