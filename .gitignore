@@ -1,0 +1,16 @@
+/.perltidyrc
+/Tests/
+/bin/Run-YUI-Compressor
+/bin/batch-inplace-html-minifier
+/bin/clean-up-docbook-xhtml-1.1.xslt
+/bin/common-required-deps.yml
+/bin/extract-spelling-errors.pl
+/bin/gen-rpm-for-build-deps
+/bin/html-min-cli-config-file.conf
+/bin/post-incs.pl
+/bin/sort-check-spelling-file
+/bin/spell-checker-iface
+/bin/spell.bash
+/bin/translate-Vered-XML
+/lib/
+/tslint.json
