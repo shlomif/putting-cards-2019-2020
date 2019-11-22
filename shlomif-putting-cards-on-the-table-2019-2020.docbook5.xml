@@ -993,7 +993,7 @@ new Hacker Monarch. Well Done!
 <link xlink:href="https://starwars.fandom.com/wiki/Yoda">Master Yoda</link>
 from Star Wars
 is a <link xlink:href="#great-hackers">great
-hacker</link> despite being fictional, and we can learn a lot from what
+hacker</link>, despite being fictional, and we can learn a lot from what
 <link xlink:href="https://www.youtube.com/watch?v=kFnFr-DOPf8">he said
 about being unnecessarily paranoid:</link>
 </para>
@@ -1037,8 +1037,8 @@ before the Snowden findings of fact.
 
 <para>
 On freenode, a chat friend told me he was glad that Google has his gmail.com
-email because it means someone has them, and it won't get lost like his
-previous E-mail got lost in a hard disk failure.
+email because it means someone has them, and it will likely won't get lost like
+his previous E-mail got lost in a hard disk failure.
 </para>
 
 <para>
@@ -1100,7 +1100,7 @@ Some people came up with <link
 xlink:href="https://www.shlomifish.org/philosophy/computers/open-source/foss-licences-wars/#strong-copyleft-and-threats-to-foss">elaborate
 hypothetical scenarios</link> where using the more restrictive <link
 xlink:href="https://en.wikipedia.org/wiki/GNU_General_Public_License">GPL
-licence</link> will be advantageous instead of <link
+licence</link> will be advantageous instead of the <link
 xlink:href="https://en.wikipedia.org/wiki/Permissive_software_license">permissive
 software licences</link> which I prefer to use for most of the <link
 xlink:href="https://www.shlomifish.org/open-source/projects/">software</link>
@@ -1439,10 +1439,10 @@ want from the buffet and pay as much (or as little) as they want.
 
 <para>
 Now, I ate some of the food there which was pretty good, and decided to pay 70
-<link xlink:href="https://en.wikipedia.org/wiki/Israeli_new_shekel">ILS</link>
-whereas I recall that at a time a hamburger meal at a decent restaurant costed
-between 40 ILS and 50 ILS. Why? Because I appreciated their trust and felt
-generous.
+<link xlink:href="https://en.wikipedia.org/wiki/Israeli_new_shekel">ILS</link>.
+This is whereas I recall that at a time a hamburger meal at a decent restaurant
+costed between 40 ILS and 50 ILS. Why did I pay so much? Because I appreciated
+their trust and felt generous.
 </para>
 
 </listitem>
@@ -1470,7 +1470,7 @@ xlink:href="https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public
 <para>
 
 I have been doing software development commissions where I give a rough
-estimate of the time it will take me <link xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-multiply-by-pi">by multiplying by 3</link>
+estimate of the time it will take me <link xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-multiply-by-pi">by multiplying my estimate by 3</link>
 and charge 50 USD / hour (which is a good rate in Israel) and I do not
 charge if the customer is unhappy with my deliverables. This is because
 I'd rather be considered
@@ -1497,6 +1497,19 @@ Some people online lamented the fact that some <link xlink:href="https://en.wiki
 similar) donation pledges to sponsor their albums, but it is quite similar
 to most philosophers of ancient times, who were entertainers who collected
 donations from the attendees after their performances.
+</para>
+</listitem>
+
+<listitem>
+<para>
+Counterintuitevely charging more <link
+xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=joel-camels-rubber-duckies-11">may
+yield a bigger demand</link>. In the book <link
+xlink:href="https://en.wikipedia.org/wiki/The_Princess_Bride_(novel)">The
+Princess Bride</link>, there is the story of a sword craftsman, whose secret
+better craftsman delegator was killed by the 6 fingered man, and charged more
+and more for his now pretty bad results. However, the more he charged the
+greater the demand was.
 </para>
 </listitem>
 </orderedlist>
@@ -1847,6 +1860,16 @@ much more important.
 
 </section>
 
+<section xml:id="selling-for-stupider-ppl">
+
+<info>
+<title>Selling for people stupider than you</title>
+</info>
+
+<para>
+Sell / Develop things for people as smart as you.
+</para>
+</section>
 </article>
 <!-- vim: set indentexpr=
 -->
