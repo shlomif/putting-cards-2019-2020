@@ -13,5 +13,6 @@ m()
     make DBTOEPUB="/usr/bin/ruby $(which dbtoepub)" DOCBOOK5_XSL_STYLESHEETS_PATH=/usr/share/xml/docbook/stylesheet/docbook-xsl-ns "$@"
 }
 
+perl bin/my-cookiecutter.pl
 m
 m test
