@@ -53,5 +53,6 @@ install:
     - eval "$(perl -Mlocal::lib=$HOME/perl_modules)"
     - gem install asciidoctor
     - cpanm -n App::XML::DocBook::Docmake Code::TidyAll::Plugin::TestCount HTML::T5 MooX MooX::late Perl::Critic Perl::Tidy Test::HTML::Tidy::Recursive Test::TrailingSpace Test::Code::TidyAll
+    - sudo pip3 install --upgrade cookiecutter
 script:
     - bash -x .travis-run-test.bash
