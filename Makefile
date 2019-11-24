@@ -14,3 +14,6 @@ $(XHTML_MAIN): shlomif-putting-cards-on-the-table-2019-2020.docbook5.xml
 
 clean:
 	rm -fr $(XHTML_MAIN)
+
+test: all
+	prove t/*.t
