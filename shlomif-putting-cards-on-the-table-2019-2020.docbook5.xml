@@ -897,10 +897,11 @@ when I told someone there that he should charge 300 USD/hour for Swift
 projects because he disliked them so much. I also said the high fee may
 yield <link
 xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=joel-camels-rubber-duckies-11">a
-higher demand</link>.  Since, I had a browser window open with the top
+higher demand</link>.  Then, since I had a browser window open with the most
+followed
 Twitter accounts and <link
 xlink:href="https://en.wikipedia.org/wiki/Taylor_Swift">Taylor Swift</link>
-was there and I noted she likely charges more than 300 USD/hour for her
+was there, I noted she likely charges more than 300 USD/hour for her
 live shows. He told me that she shared her name with that language, and I
 noted that she should sue Apple for trademark violations of the supposed
 "Swift" trademark - and win.  I joked that if "Apple sued Taylor Swift for
@@ -946,6 +947,23 @@ donates to friendly individuals</link> and realises that one should <link
 xlink:href="https://biblehub.com/ecclesiastes/11-1.htm">"cast your bread
 upon the waters"</link> to quote the wonderful Biblical scroll of <link
 xlink:href="https://en.wikipedia.org/wiki/Ecclesiastes">Ecclesiastes</link>.
+</para>
+
+<para>
+One advice I can give to Ms. Swift is to stop "speaking in riddles"
+which was also an issue of <link xlink:href="https://en.wikipedia.org/wiki/Terry_Pratchett">Terry Pratchett’s books</link>, and which I was inspired by the
+lyrics of
+<link xlink:href="https://www.youtube.com/watch?v=QNzj55CEoMI">a cover
+of Swift's song "Ours"</link> (which I now much malign). I recommend
+she start writing a public snapshot of her personal philosophy ("Taytayism"
+or whatever) similar to my <link xlink:href="https://github.com/shlomif/putting-cards-2019-2020">repository of this very document</link>.
+It can be on GitHub or GitLab, or perhaps Google Docs.
+</para>
+
+<para>
+Another piece ofadvice is to
+<link xlink:href="emulate-YouTubers">emulate YouTubers</link> and start
+an "indie" YouTube channel, but this is not particularly specific to her.
 </para>
 
 </section>
@@ -1399,7 +1417,7 @@ filtering and removal, that many YouTube creators and users have been
 witnessing.
 </para>
 
-<para>
+<para xml:id="emulate-YouTubers">
 I believe that signed artists and creators (or the somewhat more professional
 ones) should <emphasis role="bold">emulate YouTubers</emphasis> and start indie
 channels where they post regular collaborations with other YouTubers: from the
