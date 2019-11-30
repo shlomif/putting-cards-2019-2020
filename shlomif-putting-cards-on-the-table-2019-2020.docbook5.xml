@@ -1598,36 +1598,76 @@ Fill in.
 </info>
 
 <para>
-It may surprise you, but people can change. Towards <link xlink:href="https://www.shlomifish.org/humour/Selina-Mandrake/ongoing-text.html#from-dispeller-to-selina">the end</link> of my screenplay <emphasis>Selina Mandrake - The Slayer</emphasis>
-I describe such changes among traditionally stubborn men and societies.
+It may surprise you, but people can change. Towards <link
+xlink:href="https://www.shlomifish.org/humour/Selina-Mandrake/ongoing-text.html#from-dispeller-to-selina">the
+end</link> of my screenplay <emphasis>Selina Mandrake - The Slayer</emphasis>
+I describe such changes among traditionally stubborn men and societies:
 </para>
 
+<orderedlist>
+
+<listitem>
 <para>
-Linus Torvalds surprised quite a few people by <link
+<link xlink:href="https://memory-alpha.fandom.com/wiki/Q">Q</link>, who
+had been revealed to be a humanoid, decided to appear less blasé and
+show some compassion for fellow organisms, including his ex-wives
+and children.
+</para>
+</listitem>
+
+<listitem>
+<para>
+<link
+xlink:href="https://memory-alpha.fandom.com/wiki/Kahless_the_Unforgettable">Kahless</link>
+returns on The Day of The Living Dead to guide the <link
+xlink:href="https://memory-alpha.fandom.com/wiki/Klingon">Klingons</link> back
+into rationality and carefulness instead of what became their traditional
+stubbornness and haste.
+</para>
+</listitem>
+
+<listitem>
+<para>
+We admit to ourselves that sometimes
+<link xlink:href="#amateurs">amateurs</link>
+(being people
+who like what they do, people who don’t play by the rules, and finally people
+who are not professional) can compete with the large budgets and high
+discipline of professionals, and even exceed it, because they can deliver more
+and at greater capacity, tend to think outside the box, and simply tend to
+avoid the many invisible rules that plague more professional structures.
+</para>
+</listitem>
+</orderedlist>
+
+<para>
+<link xlink:href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</link> surprised quite a few people by <link
 xlink:href="https://www.bbc.com/news/technology-45664640">admitting that being
-rude was detrimental to the growth of the Linux kernel development
+rude was detrimental to the growth of the Linux kernel’s development
 community</link> rather than something that he believed was good for it. There
 were some conspiracy theories about how exactly he came to that realisation,
 but it is not unthinkable for a person to change their mind.
 </para>
 
 <para>
-<link xlink:href="https://en.wikipedia.org/wiki/Richard_Stallman">Richard Stallman</link>
-also decided to resign from his long term role as president of
-<link xlink:href="https://en.wikipedia.org/wiki/Free_Software_Foundation">Free Software Foundation</link>, which also was a surprise to many. The exact
-impetus for that decision is irrelevant, and Dr. Stallman is planning to
-remain active. Furthermore, the new president will likely be better and more
-effective than him.
+<link xlink:href="https://en.wikipedia.org/wiki/Richard_Stallman">Richard
+Stallman</link> also decided to resign from his long term role as president of
+<link xlink:href="https://en.wikipedia.org/wiki/Free_Software_Foundation">Free
+Software Foundation</link>, which also was a surprise to many. The exact
+impetus for that decision is irrelevant, and Dr. Stallman is planning to remain
+active. Furthermore, the new president will likely be better and more effective
+than him.
 </para>
 
 <para>
-Companies can change too. Under its new leadership, Microsoft has open sourced
-many projects, or developed them as open source to begin with. It also <link
+Companies can change too. Under its new leadership, <link
+xlink:href="https://en.wikipedia.org/wiki/Microsoft">Microsoft</link> has open
+sourced many projects, or developed them as open source to begin with. It also
+<link
 xlink:href="https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/">acquired
-GitHub</link>, and despite some predictions of doom and gloom from
-<link xlink:href="#fear-is-path-to-dark-side">paranoid</link> users, it seems
-that the user experience (= "UX") of GitHub has improved since the
-acquisition.
+GitHub</link>, and despite some predictions of doom and gloom from <link
+xlink:href="#fear-is-path-to-dark-side">paranoid</link> users, it seems that
+the user experience (= "UX") of GitHub has improved since the acquisition.
 </para>
 
 <para>
@@ -1653,6 +1693,7 @@ xlink:href="https://twitter.com/shlomif/status/1175452478273478656">goes</link>:
 because no one else can successfully emulate them.</quote>
 </para>
 </section>
+
 <section xml:id="four-kinds-of-fools">
 
 <info>
