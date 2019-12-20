@@ -1826,13 +1826,74 @@ and even if I did, I'd rather not remove such offending material completely, but
 it or add a disclaimer note.
 </para>
 
+<section xml:id="bikeshed_colour">
+
+<info>
+<title>Colour of the Bikeshed</title>
+</info>
+
 <para>
-TODO: bikeshedding.
+A somewhat more involved case of criticism is <link xlink:href="https://en.wikipedia.org/wiki/Color_of_the_bikeshed">Parkinson’s Law of Triviality</link> or the "colour of the bikeshed" argument
+in which discussions about trivial matters which many people can understand are given
+disproportionate time. In this case it is important to sometimes avoid insisting on
+one's preference. Recently, the local Israeli <link xlink:href="https://en.wikipedia.org/wiki/Free_and_open-source_software">Free and open-source software</link> community
+contemplated whether to use <link xlink:href="https://en.wikipedia.org/wiki/WordPress">WordPress</link>
+or a <link xlink:href="https://davidwalsh.name/introduction-static-site-generators">static site generator</link>
+for the new linux.org.il site and when the consensus settled on WordPress, I accepted
+that despite the fact that I preferred the other option. That is because wasting time
+on such trivialities will not be fruitful.
+</para>
+
+</section>
+
+<section xml:id="kipling_if">
+
+<info>
+<title>Quote from "If—" by Rudyard Kipling</title>
+</info>
+
+<para>
+<link xlink:href="https://en.wikipedia.org/wiki/If%E2%80%94">"If—" by Rudyard Kipling</link> is
+a famous poem which is the favourite of mine and many past and present people (including
+<link xlink:href="https://en.wikipedia.org/wiki/Ayn_Rand">Ayn Rand</link>). Quoting from it:
+</para>
+
+<blockquote>
+
+<para>
+If you can keep your head when all about you
 </para>
 
 <para>
-<link xlink:href="https://en.wikipedia.org/wiki/If%E2%80%94">"If—" by Rudyard Kipling</link>
+Are losing theirs and blaming it on you,
 </para>
+
+<para>
+If you can trust yourself when all men doubt you,
+</para>
+
+<para>
+But make allowance for their doubting too;
+</para>
+
+<para>
+If you can wait and not be tired by waiting,
+</para>
+
+<para>
+Or being lied about, don’t deal in lies,
+</para>
+
+<para>
+Or being hated, don’t give way to hating,
+</para>
+
+<para>
+And yet don’t look too good, nor talk too wise:
+</para>
+
+</blockquote>
+</section>
 
 </section>
 
@@ -1841,7 +1902,7 @@ TODO: bikeshedding.
 <title>Do not be afraid to live</title>
 </info>
 <para>
-    <link xlink:href="https://en.wikipedia.org/wiki/The_Quick_and_the_Dead_(1995_film)">The Quick and the Dead (1995 film)</link>
+<link xlink:href="https://en.wikipedia.org/wiki/The_Quick_and_the_Dead_(1995_film)">The Quick and the Dead (1995 film)</link>
 </para>
 </section>
 
