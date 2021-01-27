@@ -1117,8 +1117,9 @@ before the Snowden findings of fact.)
 
 <para>
 On freenode, a chat friend told me he was glad that Google has his gmail.com
-email because it means someone has them, and it will likely won't get lost like
-his previous E-mail got lost in a hard disk failure.
+E-mail messages because it means someone else besides him has them, and they
+will likely not get lost like his previous E-mail messages got lost in a hard
+disk failure.
 </para>
 
 <para>
@@ -1131,7 +1132,7 @@ important stuff on FTP and let the rest of the world mirror it.”. Nowadays, on
 should <link
 xlink:href="https://better-scm.shlomifish.org/docs/this-site-is-irrelevant/">use
 git as a version control system</link> most of the time, but the point is that
-one must <link
+one should <link
 xlink:href="https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#publish_or_perish">publish
 or perish</link>.
 </para>
