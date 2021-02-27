@@ -1647,16 +1647,39 @@ greater the demand was.
 </para>
 </listitem>
 </orderedlist>
+
+<para>
+For more insights, see:
+</para>
+
+<orderedlist>
+
+<listitem>
 <para>
 
 <link xlink:href="https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/">"Alternative" models for web commerce</link> - on my site.
 
+</para>
+</listitem>
+
+<listitem>
+<para>
+
 <link xlink:href="https://github.com/nayafia/lemonade-stand">nayafia's "lemonade-stand": A handy guide to financial support for open source</link>
+
+</para>
+</listitem>
+
+<listitem>
+<para>
 
 <link xlink:href="https://www.shlomifish.org/humour/fortunes/joel-on-software.html#joel-camels-rubber-duckies-1">quotes from Joel on Software’s essay about The Pricing of Software (or other goods)</link>
 
-<link xlink:href="https://github.com/shlomif/dosbox/commit/50a6334e3713d8647553aa8d1809c0243633cb60">both FOSS and got paid.</link>
 </para>
+</listitem>
+
+</orderedlist>
+
 </section>
 
 <section xml:id="Christina_Grimmie">
