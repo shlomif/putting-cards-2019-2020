@@ -66,7 +66,53 @@ goes by.
 
 </section>
 
+<section xml:id="truths-doubts-and-other-epistemology">
 
+<info>
+<title>Epistemology: Truths, "Lies", A Dynamic Reality, etc.</title>
+</info>
+
+<para>
+Larry Wall <link xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=larry-wall-all-truth-is-gods-truh">noted:</link>
+</para>
+
+<blockquote>
+<para>
+I have a book on my bookshelf that I’ve never read, but that has a great title.
+It says, <emphasis role="bold">“All Truth is God’s Truth.”</emphasis> And I believe that. The most viable belief
+systems are those that can reach out and incorporate new ideas, new memes, new
+metaphors, new interfaces, new extensions, new ways of doing things. My goal
+this year is to try to get Perl to reach out and cooperate with Java. I know it
+may be difficult for some of you to swallow, but Java is not the enemy. Nor is
+Lisp, or Python, or Tcl. That is not to say that these languages don't have
+good and bad points. I am not a cultural relativist. Nor am I a linguistic
+relativist. In case you hadn't noticed. :-)
+</para>
+</blockquote>
+
+<para>
+<link xlink:href="https://www.shlomifish.org/philosophy/philosophy/guide-to-neo-tech/">Neo-Tech noted something similar:</link>
+</para>
+
+<blockquote>
+<para>
+"Truth" is a mushy, polyhydra word; everyone disputes its meaning.
+</para>
+</blockquote>
+
+<para>
+A variant of an insight by <link
+xlink:href="https://en.wikiquote.org/wiki/Niels_Bohr">Niels Bohr</link> goes:
+</para>
+
+<blockquote>
+<para>
+The opposite of a correct statement is a false statement. But the opposite of a
+profound truth may well be another profound truth.
+</para>
+</blockquote>
+
+</section>
 
 <section xml:id="do_and_let_do__live_and_let_live">
 <info>
