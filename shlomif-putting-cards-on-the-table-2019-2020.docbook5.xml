@@ -136,9 +136,17 @@ in all directions (for example see my notes about
 but people <emphasis role="bold">can</emphasis> tell the truth.
 The <link xlink:href="https://en.wikipedia.org/wiki/Hebrew_Bible">Bible</link>
 depicts acts of massacre, adultery, and incest that would seem appalling,
-and which historians believe were common then (see e.g: <link xlink:href="https://en.wikipedia.org/wiki/Levite%27s_concubine">Levite’s concubine</link>).
+and which historians believe were common back then (see e.g: <link xlink:href="https://en.wikipedia.org/wiki/Levite%27s_concubine">Levite’s concubine</link>).
 Nevertheless, generations of children (and adults) who read it, knew better
 than to emulate that.
+</para>
+
+<para>
+Do note that there is a place for logical absolutism (= <quote>1. A is A. 2. A is not not-A. 3. Every entity is either A or not-A.</quote>; <link xlink:href="https://en.wikipedia.org/wiki/Term_logic">term logic</link>/etc.) -
+without it mathematics won't be possible, nor will most modern engineering,
+computers (including many embedded and mobile devices), and computer networking.
+But I tend to agree with Bohr that often we can look at a more humane or
+spiritual issue from two different valid sides.
 </para>
 
 </section>
@@ -185,7 +193,8 @@ most amazing thing is that he told the Christians something like that:
 You can fight me or you can surrender. The choice is yours. Do what you want,
 you don't have to do what you think you must. If you choose to surrender, I
 will spare your life, disarm you and let you walk to Christian-controlled
-territory. If you choose to fight, I will try my best not to kill or harm you,
+territory. If you choose to fight, I will try my best not to kill or harm you
+(but do note that protecting my troops is my priority),
 and then swear you not to fight me any more, and let you walk to
 Christian-controlled territory.
 
@@ -521,7 +530,8 @@ who is often ahead of the curve.
 </para>
 
 <para>
-Some examples for Hacker Monarchs are:
+Some examples for notable Hacker Monarchs, from my Jewish/Secular
+Israeli and Western (Near East/Europe/North Americas) bias, are:
 </para>
 
 <orderedlist>
@@ -554,6 +564,15 @@ Some examples for Hacker Monarchs are:
 <para>
 <link xlink:href="https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/">Qoheleth / Ecclesiastes</link>
 </para>
+
+<listitem>
+<para>
+( <link xlink:href="https://en.wikipedia.org/wiki/Jesus">Jesus</link> may
+have been a hacker monarch, but I have not studied his teachings closely,
+and have some natural aversion towards Christianity as an Israeli Jew. )
+</para>
+</listitem>
+
 </listitem>
 <listitem>
 <para>
@@ -629,9 +648,11 @@ Some examples for Hacker Monarchs are:
 </listitem>
 <listitem>
 <para>
-<link xlink:href="https://www.shlomifish.org/humour/bits/facts/Larry-Wall/">Larry Wall</link> /
 <link xlink:href="https://en.wikipedia.org/wiki/Richard_Stallman">Richard Stallman</link> /
+<link xlink:href="https://www.shlomifish.org/humour/bits/facts/Larry-Wall/">Larry Wall</link> /
 <link xlink:href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</link>
+and other Usenet / FOSS hackers with
+<link xlink:href="https://en.wikipedia.org/wiki/Eric_S._Raymond">Eric S. Raymond</link> writing the Magnus Opus <link xlink:href="http://www.catb.org/~esr/writings/cathedral-bazaar/">CatB</link>.
 </para>
 </listitem>
 <listitem>
@@ -641,23 +662,27 @@ The fictional <link xlink:href="https://en.wikipedia.org/wiki/Jean-Luc_Picard">J
 </listitem>
 <listitem>
 <para>
-The fictional <link xlink:href="https://buffy.fandom.com/wiki/Buffy_Summers">Buffy Summers</link>
+The fictional <link xlink:href="https://buffy.fandom.com/wiki/Buffy_Summers">Buffy Summers</link> being the poster girl of "Web 1.0".
 </para>
 </listitem>
 <listitem>
 <para>
-<link xlink:href="https://www.shlomifish.org/">Shlomi Fish</link> aided by
 <link xlink:href="https://en.wikipedia.org/wiki/Joel_Spolsky">Joel Spolsky</link> /
 <link xlink:href="https://en.wikipedia.org/wiki/Eric_S._Raymond">Eric S. Raymond</link> /
 <link xlink:href="https://en.wikipedia.org/wiki/Paul_Graham_(programmer)">Paul Graham (programmer)</link> /
-<link xlink:href="https://en.wikipedia.org/wiki/Lawrence_Lessig">Lawrence Lessig</link> and other software developers and bloggers / web writers of the
+<link xlink:href="https://en.wikipedia.org/wiki/Lawrence_Lessig">Lawrence Lessig</link> / <link xlink:href="https://www.shlomifish.org/">Shlomi Fish</link>
+ and other software developers and bloggers / web writers of the
 ~2000-2014 web 2.0/"open content" revolution.
 </para>
 </listitem>
 <listitem>
 <para>
+In <link xlink:href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/">Summerschool at the NSA</link>, I believed
 <link xlink:href="https://www.shlomifish.org/humour/bits/facts/Summer-Glau/">Summer Glau</link>
 and <link xlink:href="https://en.wikipedia.org/wiki/Xkcd">Xkcd</link>
+will succeed me. While other "messiahs" / hacker-monarchs in the past tried
+to convince everyone else to consider themselves as such, it was only
+possible after the web became prevalent.
 </para>
 </listitem>
 
@@ -682,15 +707,15 @@ people are those who answer otherwise.
 <para>
 Note that even a hacker monarch may be fallible. Socrates almost got himself
 killed several times, and then he willingly drank the poison and died.
-Plato and Aristotle
-said equally blasphemous things, but learned from Socrates' fate and worked on
-better delivery so both died as highly revered and respected. The same story
-repeated itself during the Renaissance with Galileo and Isaac Newton.
+Plato and Aristotle said equally blasphemous things, but learned from Socrates'
+fate and worked on better delivery so both died as highly revered and
+respected. The same story repeated itself during the Renaissance with Galileo
+and Isaac Newton.
 </para>
 
 <para>
 Many Hacker Monarchs were two steps forward and one step back, like the fact
-Ayn Rand was <link xlink:href="https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#honesty">anti-Open</link> and
+Ayn Rand was <link xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#open_free_share_steal">anti-Open</link> and
 <link xlink:href="#amateurs">anti-Amateur</link> and <link
 xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=neo-tech-selfishness">confused
 selfishness with rational self growth</link>.
@@ -748,7 +773,7 @@ Hacker Kings / Hacker Queens ("Hacker Queen Regnent").
 
 <listitem>
 <para>
-<link xlink:href="https://memory-alpha.fandom.com/wiki/Kahless_the_Unforgettable">Warrior King</link> / Warrior Queen / Warrior Queen Monarch
+<link xlink:href="https://memory-alpha.fandom.com/wiki/Kahless_the_Unforgettable">Warrior King</link> / Warrior Queen / Warrior Queen Regnent / Warrior Monarch
 </para>
 </listitem>
 
@@ -863,7 +888,7 @@ style more than Ayn Rand’s. Make your own kind of music!
 <para>
 If you meet <link xlink:href="https://en.wikipedia.org/wiki/Taylor_Swift">Taylor Swift</link> on the street, have a pleasant conversation,
 and you need some money and ask her for some, she'll
-tell you: "Sure, I do <link xlink:href="https://en.wikipedia.org/wiki/PayPal">PayPal</link> but not <link xlink:href="https://en.wikipedia.org/wiki/Bitcoin">Bitcoin</link> because I value my time too much. How much do you want?"
+tell you: "Sure, I do <link xlink:href="https://en.wikipedia.org/wiki/PayPal">PayPal</link> and <link xlink:href="https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication">SWIFT</link> and similar, but not <link xlink:href="https://en.wikipedia.org/wiki/Bitcoin">Bitcoin</link> because I value my time too much. How much do you want?"
 </para>
 <para>
 "How much is too much?"
@@ -983,7 +1008,9 @@ wish people to be more able, how do we measure it?
 The first measure of ability is <link
 xlink:href="https://en.wikipedia.org/wiki/Money">Money</link> - the more
 money you have the more goods you can
-afford and the more free time you have to do creative works.
+afford, the more you can give, donate, lend, or
+invest,
+and the more free time you have to do creative works.
 </para>
 </listitem>
 <listitem>
@@ -1003,6 +1030,7 @@ Even if you are famous, you do not necessarily have to suffer from it.
 </listitem>
 
 <listitem>
+
 <para xml:id="paris_hilton">
 The third measure is "luck" which is which opportunities you seize. The
 media went out of its way to present <link
@@ -1013,6 +1041,17 @@ lucky to have been a heiress by birth. However, despite that, she was the
 opposite of most of these. Moreover, if she utilised her initial state to
 her own advantage, then all the power to her.
 </para>
+
+<para>
+Earlier in 1982, <link
+xlink:href="https://en.wikipedia.org/wiki/Samantha_Smith">Samantha Smith</link>
+may have been lucky for her letter to have arrived to the Soviet leader, but
+she hoped for that and planned that. It is likely that her friends found her a
+little "weird" for her habit of sending letters, given my friends looked down
+on a similar habit I had in the early 1990s before the prevalence of
+the Internet.
+</para>
+
 </listitem>
 
 <listitem>
