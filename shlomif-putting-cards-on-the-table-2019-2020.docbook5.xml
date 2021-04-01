@@ -564,6 +564,7 @@ Israeli and Western (Near East/Europe/North Americas) bias, are:
 <para>
 <link xlink:href="https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/">Qoheleth / Ecclesiastes</link>
 </para>
+</listitem>
 
 <listitem>
 <para>
@@ -573,7 +574,6 @@ and have some natural aversion towards Christianity as an Israeli Jew. )
 </para>
 </listitem>
 
-</listitem>
 <listitem>
 <para>
 <link xlink:href="https://en.wikipedia.org/wiki/Muhammad">Muhammad</link>
@@ -1663,15 +1663,39 @@ and competent</link>.
 </listitem>
 
 <listitem>
+
 <para>
-However, note that you won't mind "losing", or hurt yourself or others,
-or even remain miserable or unhappy for too long. ( <link xlink:href="https://www.youtube.com/watch?v=7hx4gdlfamo">"You gotta know when to walk away."</link> )
+However, note that you won't mind "losing", if it means avoiding hurting
+yourself or others, or even avoiding remain miserable or unhappy for too long.
+( <link xlink:href="https://www.youtube.com/watch?v=7hx4gdlfamo">"You gotta
+know when to walk away."</link> )
 </para>
+
+<para>
+<quote xlink:href="being_considered_a_sucker">It is better to be considered a "sucker" (= generous) than to
+acquire an enemy.</quote>
+</para>
+
+</listitem>
+
+<listitem>
+
+<para>
+I may have competitors, but not only will I not try to immorally
+hinder them, but will encourage them, and try to publicly share my knowledge,
+thoughts, and opinions with them (given the time frame).
+</para>
+
+<para>
+(
+</para>
+
 </listitem>
 
 <listitem>
 <para>
-TODO: add more.
+The important thing is to have fun ( <link xlink:href="#amateurs">geeks / "amateurs"</link> ),
+identify with the cause, and have a well-rounded life.
 </para>
 </listitem>
 
@@ -1862,7 +1886,7 @@ xlink:href="https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public
 </para>
 </listitem>
 
-<listitem>
+<listitem xml:id="being_considered_a_sucker">
 <para>
 
 I have been doing software development commissions where I give a rough
