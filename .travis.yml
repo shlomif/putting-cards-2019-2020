@@ -39,9 +39,9 @@ addons:
             - xsltproc
             - xz-utils
             - zip
-dist: xenial
+dist: bionic
 perl:
-    - '5.26'
+    - '5.30'
 matrix:
     fast_finish: true
 os: linux
