@@ -1,7 +1,7 @@
 addons:
     apt:
         packages:
-            - ack-grep
+            - ack
             - asciidoc
             - build-essential
             - cmake
@@ -14,8 +14,8 @@ addons:
             - fortune-mod
             - graphicsmagick
             - hunspell
+            - hunspell-en-gb
             - inkscape
-            - myspell-en-gb
             - libdb5.3-dev
             - libgd-dev
             - libhunspell-dev
@@ -23,14 +23,13 @@ addons:
             - libpcre3-dev
             - libperl-dev
             - libxml2-dev
-            - mercurial
-            - myspell-en-gb
             - lynx
+            - mercurial
             - optipng
             - perl
             - python3
-            - python3-setuptools
             - python3-pip
+            - python3-setuptools
             - silversearcher-ag
             - strip-nondeterminism
             - tidy
