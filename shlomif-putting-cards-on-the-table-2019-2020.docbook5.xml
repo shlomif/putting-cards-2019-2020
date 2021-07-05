@@ -798,7 +798,7 @@ socially capable.
 <para>
 Having read <link
 xlink:href="https://en.wikipedia.org/wiki/The_Three_Musketeers"><emphasis>The
-Three Musketeers</emphasis></link>, Dumas’ magnum opus, I recall feeling
+Three Musketeers</emphasis></link>, Dumas’ magnus opus, I recall feeling
 intimated by the competence and resourcefulness of <link
 xlink:href="https://en.wikipedia.org/wiki/Milady_de_Winter">Milady de
 Winter</link>, until I eventually realised that despite being the antagonist,
@@ -1353,7 +1353,7 @@ traditional Hollywood roles - just because he liked them.
 <para>
 As a result of that, I believe Chuck Norris, both himself and
 the fictionalised Chuck Norris Facts image, has become a
-new Hacker Monarch. Well Done!
+new <link xlink:href="#hacker-monarchs">Hacker Monarch</link>. Well Done!
 </para>
 
 <section xml:id="factoids_trend">
@@ -1759,7 +1759,7 @@ and competent</link>.
 
 <para>
 However, note that you won't mind "losing", if it means avoiding hurting
-yourself or others, or even avoiding remain miserable or unhappy for too long.
+yourself or others, or even avoiding remaining miserable or unhappy for too long.
 ( <link xlink:href="https://www.youtube.com/watch?v=7hx4gdlfamo">"You gotta
 know when to walk away."</link> )
 </para>
@@ -1860,7 +1860,7 @@ One problem with YouTube is that many videos have been removed, or
 censored, or
 disappeared, or blocked in certain regions (often by automated
 filters). Some people like me try to use
-<link xlink:href="https://rg3.github.io/youtube-dl/">youtube-dl</link>
+<link xlink:href="https://youtube-dl.org/">youtube-dl</link>
 or similar downloaders to download every video that we like from
 YouTube, and while some die hard copyright puritans have looked
 down on that, I still support that as a way to battle censorship.
@@ -1946,8 +1946,8 @@ That put aside, here are some thoughts about a more <link xlink:href="#amateurs"
 I once attended an Israeli <link
 xlink:href="https://en.wikipedia.org/wiki/LiveJournal">LiveJournal</link>-ers
 meetup (back when LiveJournal was more popular outside Russia) which took place
-in a vegetarian Indian restaurant. Now it allowed one to eat as much as they
-want from the buffet and pay as much (or as little) as they want.
+in a vegetarian Indian restaurant. That restaurant allowed one to eat as much
+as they want from the buffet and pay as much (or as little) as they want.
 </para>
 
 <para>
@@ -2015,11 +2015,11 @@ donations from the attendees after their performances.
 
 <listitem>
 <para>
-Counterintuitively charging more <link
+Counterintuitively, charging more <link
 xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=joel-camels-rubber-duckies-11">may
 yield a bigger demand</link>. In the book <link
 xlink:href="https://en.wikipedia.org/wiki/The_Princess_Bride_(novel)">The
-Princess Bride</link>, there is the story of a sword craftsman, whose secret
+Princess Bride</link>, there is the story of a swords' craftsman, whose secret
 better craftsman delegator was killed by the 6 fingered man, and charged more
 and more for his now pretty bad results. However, the more he charged the
 greater the demand was.
@@ -2102,13 +2102,13 @@ paid sportsmen are increasingly enjoying their work, and don't mind losing too m
 
 <listitem>
 <para>
-croatia
+<link xlink:href="https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Final">Croatia were the runnerups of the 2018 FIFA world cup</link>, despite being a small country.
 </para>
 </listitem>
 
 <listitem>
 <para>
-<link xlink:href="https://www.newsweek.com/scripps-national-spelling-bee-winners-1440603">TODO</link>
+<link xlink:href="https://www.newsweek.com/scripps-national-spelling-bee-winners-1440603">8 First Place Winners in a USA National spelling bee</link>
 </para>
 </listitem>
 
@@ -2263,13 +2263,13 @@ because no one else can successfully emulate them.</quote>
 <section xml:id="four-kinds-of-fools">
 
 <info>
-<title>Four kinds of fools: avoiding prejudice</title>
+<title>Six kinds of fools: avoiding prejudice</title>
 </info>
 
 <blockquote>
 <blockquote>
-<literallayout>There are two kinds of fools. One says, “This is old, and therefore good”.
-And one says, “This is new, and therefore better”.</literallayout>
+<para>There are two kinds of fools. One says, “This is old, and therefore good”.
+And one says, “This is new, and therefore better”.</para>
 </blockquote>
 <para>
   —
@@ -2277,11 +2277,14 @@ And one says, “This is new, and therefore better”.</literallayout>
   Brunner</link>, <emphasis>The Shockwave Rider</emphasis>
 </para>
 <blockquote>
-<literallayout>Two more kinds of fools. One says: “This is popular, and therefore good”.
-The other says: “This is good because it’s not popular”.</literallayout>
+<para>Two more kinds of fools. One says: “This is popular, and therefore good”.
+The other says: “This is good because it’s not popular”.</para>
 </blockquote>
 <para>
   — Shlomi Fish (though may not be a 100% original sentiment).
+</para>
+<para>
+(And recently people had prejudice against "mainstream" culture.)
 </para>
 </blockquote>
 
@@ -2650,6 +2653,7 @@ much more important.
 Sell / Develop things for people as smart as you.
 </para>
 </section>
+
 <section xml:id="fanfic-and-rpf">
 
 <info>
