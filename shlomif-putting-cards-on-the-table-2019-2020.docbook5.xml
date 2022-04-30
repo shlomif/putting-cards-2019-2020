@@ -875,6 +875,12 @@ Hacker Kings / Hacker Queens ("Hacker Queen Regnent").
 
 <listitem>
 <para>
+Messiahs.
+</para>
+</listitem>
+
+<listitem>
+<para>
 <link xlink:href="https://memory-alpha.fandom.com/wiki/Kahless_the_Unforgettable">Warrior King</link> / Warrior Queen / Warrior Queen Regnent / Warrior Monarch
 </para>
 </listitem>
@@ -1566,6 +1572,18 @@ forever because they decided that it needed the utmost protection. Family
 photos, months and years of coding work, a novel… all gone, because it *had* to
 be encrypted.</quote>
 </para>
+
+<mediaobject>
+<imageobject>
+<imagedata fileref="https://imgs.xkcd.com/comics/security.png" />
+</imageobject>
+<textobject>
+<phrase>xkcd 538</phrase>
+</textobject>
+<caption>
+<para>xkcd 538</para>
+</caption>
+</mediaobject>
 
 <para>
 Moreover as <link xlink:href="https://explainxkcd.com/wiki/index.php/538:_Security">xkcd #538</link> notes, the bottleneck for revealing secrets is you and the amount of pain and intimidation you're willing to endure. When I
