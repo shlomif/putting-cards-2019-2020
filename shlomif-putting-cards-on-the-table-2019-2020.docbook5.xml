@@ -2377,6 +2377,15 @@ xlink:href="https://en.wikipedia.org/wiki/Copyleft">copyleft</link> or <link
 xlink:href="https://en.wikipedia.org/wiki/Permissive_software_licence">permissive</link>),
 and the superior <link xlink:href="#amateurs">amateur</link>-based model of
 development.
+<footnote label="Embrace, extend, and extinguish" xml:id="embrace_extend">
+<para>
+I believe these include fears of the
+<link xlink:href="https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish">"Embrace, extend, and extinguish" strategy</link>,
+which has also been unintentionally practised by many open-source projects,
+can usually be overcome using reverse engineering, and seems to have been falling
+out of favour by Microsoft anyway.
+</para>
+</footnote>
 </para>
 
 <para>
