@@ -1531,10 +1531,13 @@ AMAZING AMOUNTS OF LUCK
 </blockquote>
 
 <para>
-I recall <link xlink:href="https://kungfupanda.fandom.com/wiki/Oogway">master
-Oogway</link> saying <quote>There are no accidents</quote> in the <link
-xlink:href="https://en.wikipedia.org/wiki/Kung_Fu_Panda_(film)">first Kung Fu
-Panda film</link>. Not saying it's always the case, but many incidents happen to you
+I recall that
+ in the <link
+ xlink:href="https://en.wikipedia.org/wiki/Kung_Fu_Panda_(film)">first Kung Fu
+ Panda</link> film,
+<link xlink:href="https://kungfupanda.fandom.com/wiki/Oogway">master
+Oogway</link> noted <quote>There are no accidents</quote>.
+Not saying it's always the case, but many incidents happen to you
 because you wanted them or was prepared for them. Maybe luck has less to do
 with pure chance than we assume.
 </para>
@@ -1554,7 +1557,7 @@ Google or Facebook "fingerprinting" them.
 </para>
 
 <para>
-However, do you honestly think the NSA/etc. hates you enough to harm you?
+However, do you honestly think the NSA/etc. hate you enough to harm you?
 In my <link
 xlink:href="https://www.shlomifish.org/philosophy/SummerNSA/">#SummerNSA</link>
 effort I have said many unkind things about <link
@@ -1562,7 +1565,7 @@ xlink:href="https://www.shlomifish.org/humour/bits/facts/NSA/">an idolised
 version of the NSA</link>, and nothing happened to me, my homesite, and my
 other online writings / blogging. (And I announced <link
 xlink:href="https://www.reddit.com/r/xkcd/comments/1bignr/xkcdinspired_screenplay_starring_summer_glau_as/">the
-"Summerschool at the NSA" informal screenplay</link> on reddit some months
+"Summerschool at the NSA" informal screenplay</link> on reddit several months
 before the Snowden findings of fact.)
 </para>
 
@@ -1572,7 +1575,8 @@ Moreover, I had much earlier written and published
 which is a surrealistic political satire that
 criticised <link xlink:href="https://en.wikipedia.org/wiki/Hezbollah">the Hizbullah</link>
 at the time, but which I can also retrospectively tell had a lot of criticism directed
-at the <link xlink:href="https://en.wikipedia.org/wiki/Israel_Defense_Forces">Israeli military (= IDF)</link>, Israel, and other organisations. Since my home address is
+at the <link xlink:href="https://en.wikipedia.org/wiki/Israel_Defense_Forces">Israeli military (= IDF)</link>,
+Israel, and other organisations. Since my home address is
 common knowledge, Iran could have killed me a long time ago.
 </para>
 
@@ -1588,8 +1592,8 @@ I keep most of my important digital data in public repositories on <link
 xlink:href="https://en.wikipedia.org/wiki/GitHub">GitHub</link> and other "code
 sharing" sites because to quote <link
 xlink:href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus
-Torvalds</link>: “Only wimps use tape backup. Real men just upload their
-important stuff on FTP and let the rest of the world mirror it.”. Nowadays, one
+Torvalds</link>: <quote>Only wimps use tape backup. Real men just upload their
+important stuff on FTP and let the rest of the world mirror it.</quote>. Nowadays, one
 should <link
 xlink:href="https://better-scm.shlomifish.org/docs/this-site-is-irrelevant/">use
 git as a version control system</link> most of the time, but the point is that
@@ -1614,11 +1618,16 @@ of any sex/gender, ethnicity, talents and interests, race, nationality, etc.
 
 <para>
 <link xlink:href="https://twitter.com/sawaba/status/1038078106404315136">This
-tweet reads</link>: <quote>I know many people that have lost priceless data
-forever because they decided that it needed the utmost protection. Family
-photos, months and years of coding work, a novel… all gone, because it *had* to
-be encrypted.</quote>
+tweet reads</link>:
 </para>
+
+<blockquote>
+<para>
+I know many people that have lost priceless data forever because they decided
+that it needed the utmost protection. Family photos, months and years of coding
+work, a novel… all gone, because it *had* to be encrypted.
+</para>
+</blockquote>
 
 <mediaobject>
 <imageobject>
@@ -1633,8 +1642,17 @@ be encrypted.</quote>
 </mediaobject>
 
 <para>
-Moreover as <link xlink:href="https://explainxkcd.com/wiki/index.php/538:_Security">xkcd #538</link> notes, the bottleneck for revealing secrets is you and the amount of pain and intimidation you're willing to endure. When I
-was a teenager, a friend who was physically stronger, forced me to reveal the 4 digit password to my watch's secret phone numbers - not unlike <link xlink:href="https://www.youtube.com/watch?v=94LL8J8WYT0">the Princess Bride “give us the gate key” meme</link>. Moreover, as the xkcd hover text notes, if your data is worthwhile, then you'll <link xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/open_free_share_steal.xhtml">share it far and wide</link>.
+Moreover as <link
+xlink:href="https://explainxkcd.com/wiki/index.php/538:_Security">xkcd
+#538</link> notes, the bottleneck for revealing secrets is you and the amount
+of pain and intimidation you're willing to endure. When I was a teenager, a
+friend who was physically stronger, forced me to reveal the 4 digit password to
+my watch's secret phone numbers - not unlike <link
+xlink:href="https://www.youtube.com/watch?v=94LL8J8WYT0">the Princess Bride
+“give us the gate key” meme</link>. Moreover, as the xkcd hover text notes, if
+your data is worthwhile, then you'll <link
+xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/open_free_share_steal.xhtml">share
+it far and wide</link>.
 </para>
 
 <para>
@@ -1652,7 +1670,8 @@ My assumption is that the universe's defence community records and publishes
 every important piece of information, and yet everyone and everything practise <link xlink:href="https://knowyourmeme.com/memes/wheatons-law">Wheaton's Law (= "Don't be a dick.")</link>
 so there's rarely a lot of damage.
 Some Internet "criminals" may extract some money from the bank accounts
-of profitable organisations (e.g. <link xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/money_cant_buy_you_love.xhtml">apple.com which has more than 100 milliard dollars</link>),
+of profitable organisations (e.g.
+from that of <link xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/money_cant_buy_you_love.xhtml">apple.com which has more than 100 milliard dollars</link>),
 but they won't dare bankrupt any of them, much less permanently delete
 a blogger's lifetime of gratisly-available content-and-code.
 </para>
