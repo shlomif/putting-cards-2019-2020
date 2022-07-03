@@ -1711,7 +1711,7 @@ King</link> came to mean both "no worries" and "no problem".
 
 <para>
 Some people came up with <link
-xlink:href="https://www.shlomifish.org/philosophy/computers/open-source/foss-licences-wars/#strong-copyleft-and-threats-to-foss">elaborate
+xlink:href="https://www.shlomifish.org/philosophy/computers/open-source/foss-licences-wars/rev2/#strong-copyleft-and-threats-to-foss">elaborate
 hypothetical scenarios</link> where using the more restrictive <link
 xlink:href="https://en.wikipedia.org/wiki/GNU_General_Public_License">GPL
 licence</link> will be advantageous instead of the <link
@@ -1844,6 +1844,7 @@ and <link
 xlink:href="https://en.wikipedia.org/wiki/With_a_Little_Help_from_My_Friends">"With
 a Little Help from My Friends"</link>.
 </para>
+
 </section>
 
 <section xml:id="pick-up-art">
@@ -1982,6 +1983,7 @@ a man or a woman singing and playing a guitar, a piano or even an electric
 organ or A cappella), to parodies, to lyric videos, to live recordings
 of any musicians or comedians.
 </para>
+
 <para>
 Now, some people still look down on YouTubers thinking that covers can never
 be better than the original, but having been introduced to the world of
@@ -2132,8 +2134,8 @@ their trust and felt generous.
 </listitem>
 
 <listitem>
-<para>
 
+<para>
 Creators of digital media (or "content") may opt to initially release their
 works under relatively restrictive licences such as <link
 xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
@@ -2148,11 +2150,12 @@ or even <link
 xlink:href="https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain">CC0
 / public domain</link>.
 </para>
+
 </listitem>
 
 <listitem xml:id="being_considered_a_sucker">
-<para>
 
+<para>
 I have been doing software development commissions where I give a rough
 estimate of the time it will take me <link xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-multiply-by-pi">by multiplying my estimate by 3</link>
 and charge 50 USD / hour (which is a good rate in Israel) and I do not
@@ -2160,16 +2163,13 @@ charge if the customer is unhappy with my deliverables. This is because
 I'd rather be considered
 a <link xlink:href="https://www.shlomifish.org/philosophy/computers/open-source/gpl-bsd-and-suckerism/">"sucker"</link>
 than acquire a new enemy.
-
 </para>
 
 <para>
-
 Note that the deliverables of a recent commission were <link xlink:href="https://github.com/shlomif/dosbox/commit/50a6334e3713d8647553aa8d1809c0243633cb60">made open source</link>
 by permission of the customer, because although he paid me to work on
 some change he needed, he was also happy to share it with the world at
 large.
-
 </para>
 
 </listitem>
@@ -2285,7 +2285,7 @@ paid sportsmen are increasingly enjoying their work, and don't mind losing too m
 
 <listitem>
 <para>
-michael phelps record/
+Michael Phelps record/
 </para>
 </listitem>
 
@@ -2328,6 +2328,7 @@ Fill in.
 </para>
 
 </section>
+
 <section xml:id="people-can-change">
 
 <info>
@@ -2536,13 +2537,15 @@ and improve too little.
 <para>
 On the other hand, one should
 <link xlink:href="http://shlomifishswiki.branchable.com/Never_Try_to_Please_Everyone/">never try to please everyone</link>
-because some people will always dislike some aspects of your work, and the best thing you can do
-is disagree and move on. Back when I referred a certain fellow open source developer (who
+because some people will always dislike some aspects of your work, and the best
+thing you can do is disagree and move on. Back when I referred a certain fellow
+open source developer (who
 is a Christian American) to my <link xlink:href="https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/">Star
 Trek: “We, the Living Dead”</link> fan fic
-he objected to the use of the phrase <quote>hot girls</quote> there, and claimed I should delete the offending
-pages from my site. However, I refused because I didn't disapprove of using that phrase there,
-and even if I did, I'd rather not remove such offending material completely, but rather either revise
+he objected to the use of the phrase <quote>hot girls</quote> there, and
+claimed I should delete the offending pages from my site. However, I refused
+because I didn't disapprove of using that phrase there, and even if I did, I'd
+rather not remove such offending material completely, but rather either revise
 it or add a disclaimer note.
 </para>
 
@@ -2641,6 +2644,7 @@ can forgive someone who has offended you or
 <link xlink:href="#sexiness-as-competence">insulted someone
 you care about.</link>
 </para>
+
 <para>
 Lao Tsu noted in <link
 xlink:href="https://en.wikipedia.org/wiki/Tao_Te_Ching">Tao Te
@@ -2651,11 +2655,13 @@ from <link xlink:href="https://www.quora.com/Who-said-Keep-your-friends-close-an
 Finally, there is the old adage that <quote>To err
 is human. To forgive — divine</quote>.
 </para>
+
 <para>
 Your <link xlink:href="#time-is-much-more-important-than-money">time</link>
 is likely too precious to hold grudges against your friends, your past
 friends, or even people who currently dislike you.
 </para>
+
 </section>
 
 <section xml:id="managing-your-memory">
