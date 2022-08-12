@@ -2872,9 +2872,11 @@ hand-holding.
 
 <blockquote>
 <para>
-The word "idiot-proof" [= laymen-proof] and <link
+The word "idiot-proof" [= laymen-proof],
+after bundled with <link
 xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=joel-remarkable-customer-service-3">Joel
-Spolsky's advice</link> gets a new meaning when some laymen are tech geeks who
+Spolsky's advice</link> to permanently fix users-reported-problems,
+gets a new meaning when some laymen are tech geeks who
 have GitHub accounts and are versed in the command-line, e.g:
 <link xlink:href="https://github.com/shlomif/fortune-mod/issues/45">fortune-mod issue #45</link>
  . I may be a "victim" of my own success.
