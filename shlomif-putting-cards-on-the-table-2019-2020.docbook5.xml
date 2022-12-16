@@ -2926,6 +2926,35 @@ Also see:
 </para>
 </listitem>
 
+<listitem>
+<para>
+Paul Graham about Java:
+</para>
+
+<orderedlist>
+
+<listitem>
+<para>
+<link xlink:href="http://www.paulgraham.com/javacover.html">"Java's Cover"</link>
+</para>
+</listitem>
+
+<listitem>
+<para>
+<link xlink:href="http://www.paulgraham.com/trevrejavcov.html">Trevor re "Java's Cover"</link>
+</para>
+</listitem>
+
+<listitem>
+<para>
+<link xlink:href="http://www.paulgraham.com/vanlfsp.html">"LFM vs. LFSP"</link>
+</para>
+</listitem>
+
+</orderedlist>
+
+</listitem>
+
 </orderedlist>
 
 </section>
