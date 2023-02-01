@@ -25,7 +25,7 @@
 <legalnotice xml:id="main_legal_notice">
 <para>
 <!--Creative Commons License-->
-This work is licensed under the <link xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Noncommercial 4.0 Licence</link> (or at your option any greater version of it).
+This work is licensed under the <link xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Noncommercial (CC-by-nc) 4.0 Licence</link> (or at your option any greater version of it).
 <!--/Creative Commons License-->
 </para>
 </legalnotice>
@@ -376,9 +376,11 @@ rather bring peace and prosperity.
 </section>
 
 <section xml:id="amateurs">
+
 <info>
 <title>Amateurs vs. Professionals</title>
 </info>
+
 <para>
 <link
 xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=paul-graham-what-ameteur-meant">"Amateur"
@@ -413,12 +415,12 @@ and lose.
 
 <para>
 It took me more than a year to write <link
-xlink:href="https://www.shlomifish.org/humour/TheEnemy/">The Enemy and How I
-Helped to Fight it</link> which was my first real story, but it took me about
+xlink:href="https://www.shlomifish.org/humour/TheEnemy/"><emphasis>The Enemy and How I
+Helped to Fight it</emphasis></link> which was my first real story, but it took me about
 two weeks to write <link
 xlink:href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/"><emphasis>Summerschool
 at the NSA</emphasis></link>. This is whereas the screenplay for the film
-Spaceballs (which was written previously by Mel Brooks, Ronny Graham, and
+<emphasis>Spaceballs</emphasis> (which was written previously by Mel Brooks, Ronny Graham, and
 Thomas Meehan) took <link
 xlink:href="https://thelaughbutton.com/mel-brooks/24-lesser-known-facts-spaceballs/">"only"
 six months to write</link>.
@@ -1041,12 +1043,12 @@ style more than Ayn Rand’s. Make your own kind of music!
 If you meet <link xlink:href="https://en.wikipedia.org/wiki/Taylor_Swift">Taylor Swift</link> on the street, have a pleasant conversation with her,
 and you need some money and ask her for some, she'll
 tell you: “Sure! I don't use <link xlink:href="https://en.wikipedia.org/wiki/Bitcoin">Bitcoin</link> because I
-                    value my time, energy and happiness too much - and those
-                    of the world's!
-                    But I've got $1,000 and $100 bills, and have
-                    a credit card if you need less. I can use <link xlink:href="https://en.wikipedia.org/wiki/PayPal">PayPal</link> on
-                    my smartphone, or
-                    <link xlink:href="https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication">SWIFT</link>.”
+value my time, energy and happiness too much - and those
+of the world's!
+But I've got $1,000 and $100 bills, and have
+a credit card if you need less. I can use <link xlink:href="https://en.wikipedia.org/wiki/PayPal">PayPal</link> on
+my smartphone, or
+<link xlink:href="https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication">SWIFT</link>.”
 </para>
 <para>
 “So…” she'll add, “…how much money do you want?”
@@ -1262,10 +1264,9 @@ xlink:href="https://en.wikipedia.org/wiki/Fitness_(biology)">fitness in
 biology</link> in humans corresponds more to sexual attractiveness than to
 <link xlink:href="https://en.wikipedia.org/wiki/Physical_fitness">physical
 fitness</link>. In the United Kingdom, the adjective "fit" has started to mean
-"sexy", "hot", "attractive" or "desirable" including such MOTAS who are not
-too athletic.
+"sexy", "hot", "attractive" or "desirable" including to describe such
+MOTAS who are not too athletic.
 </para>
-
 
 <para>
 Some people may still think that sexual attractiveness is indicative of
@@ -1325,6 +1326,7 @@ noted that she should sue Apple for trademark violations of the supposed
 violation of their Apple Swift language's trademark they will spend all
 their money in the bank on litigation and still lose.". Ha ha only serious.
 </para>
+
 <para>
 I then realised that Ms. Swift has become a <link
 xlink:href="#hacker-monarchs">Hacker Queen</link> by that time. While I
@@ -1537,10 +1539,7 @@ AMAZING AMOUNTS OF LUCK
 </blockquote>
 
 <para>
-I recall that
- in the <link
- xlink:href="https://en.wikipedia.org/wiki/Kung_Fu_Panda_(film)">first Kung Fu
- Panda</link> film,
+I recall that in the <link xlink:href="https://en.wikipedia.org/wiki/Kung_Fu_Panda_(film)">first Kung Fu Panda</link> film,
 <link xlink:href="https://kungfupanda.fandom.com/wiki/Oogway">master
 Oogway</link> noted <quote>There are no accidents</quote>.
 Not saying it's always the case, but many incidents happen to you
@@ -1571,7 +1570,7 @@ xlink:href="https://www.shlomifish.org/humour/bits/facts/NSA/">an idolised
 version of the NSA</link>, and nothing happened to me, my homesite, and my
 other online writings / blogging. (And I announced <link
 xlink:href="https://www.reddit.com/r/xkcd/comments/1bignr/xkcdinspired_screenplay_starring_summer_glau_as/">the
-"Summerschool at the NSA" informal screenplay</link> on reddit several months
+"Summerschool at the NSA" screenplay</link> on Reddit several months
 before the Snowden findings of fact.)
 </para>
 
@@ -1809,7 +1808,7 @@ xlink:href="https://www.manchestereveningnews.co.uk/news/greater-manchester-news
 attended</link> a wedding to which a British couple invited her as a
 joke.<footnote label="comedy-is-serious" xml:id="comedy_serious"><para>To quote <link
 xlink:href="https://en.wikiquote.org/wiki/Peter_Ustinov">Peter Ustinov</link>:
-«Comedy is simply a funny way of being serious».</para></footnote>
+<quote>Comedy is simply a funny way of being serious</quote>.</para></footnote>
 </para>
 
 <para>
@@ -2316,7 +2315,7 @@ Michael Phelps record/
 
 <listitem>
 <para>
-https://www.essentiallysports.com/atp-tennis-news-jannik-sinner-defeats-vasek-pospisil-to-create-history-in-open-era-tennis/
+<link xlink:href="https://www.essentiallysports.com/atp-tennis-news-jannik-sinner-defeats-vasek-pospisil-to-create-history-in-open-era-tennis/">https://www.essentiallysports.com/atp-tennis-news-jannik-sinner-defeats-vasek-pospisil-to-create-history-in-open-era-tennis/</link>
 </para>
 </listitem>
 
@@ -2406,7 +2405,7 @@ avoid the many invisible rules that plague more professional structures.
 <para>
 <link xlink:href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</link> surprised quite a few people by <link
 xlink:href="https://www.bbc.com/news/technology-45664640">admitting that being
-rude was detrimental to the growth of the Linux kernel’s development
+needlessly rude was detrimental to the growth of the Linux kernel’s development
 community</link> rather than something that he believed was good for it. There
 were some conspiracy hypotheses about how exactly he came to that realisation,
 but it is not unthinkable for a person to change their mind.
