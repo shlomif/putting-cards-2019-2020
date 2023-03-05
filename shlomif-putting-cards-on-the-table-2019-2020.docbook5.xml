@@ -2882,7 +2882,7 @@ You will
 <listitem>
 <para>
 You will
-<link xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml">target an increasingly marginal demographic</link>.
+<link xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml">target an increasingly marginal demographic given smart geeky hackers are mainstream, attractive, "cool kids"</link>.
 </para>
 </listitem>
 
@@ -2958,6 +2958,12 @@ Paul Graham about Java:
 <listitem>
 <para>
 <link xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=chromatic-about-testing-DSLs">chromatic about testing DSLs</link>
+</para>
+</listitem>
+
+<listitem>
+<para>
+<link xlink:href="https://www.shlomifish.org/meta/FAQ/#how_site_is_generated">Smart software developers can use static site generators</link> - instead of server-side CMSes such as WordPress or Drupal.
 </para>
 </listitem>
 
