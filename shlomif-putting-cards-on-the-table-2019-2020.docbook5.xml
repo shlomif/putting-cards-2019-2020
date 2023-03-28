@@ -3,7 +3,7 @@
 
 <article xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" xml:id="index" xml:lang="en">
 <info>
-<title>Putting Cards on the Table (2019-2022)</title>
+<title>Putting Cards on the Table (2019-*)</title>
 <authorgroup>
 <author>
 <personname>
@@ -1586,10 +1586,10 @@ common knowledge, Iran could have killed me a long time ago.
 </para>
 
 <para>
-On freenode, a chat friend told me he was glad that Google has his gmail.com
-E-mail messages because it means someone else besides him has them, and so they
-are less likely to get lost like his previous E-mail messages got lost in a hard
-disk failure.
+On freenode, a chat friend told me that he was glad that Google has his
+gmail.com E-mail messages because it means someone else besides him has them,
+and so they are less likely to get lost like his previous E-mail messages got
+lost in a hard disk failure.
 </para>
 
 <para>
@@ -1645,6 +1645,37 @@ work, a novel… all gone, because it *had* to be encrypted.
 <para>xkcd 538</para>
 </caption>
 </mediaobject>
+
+<blockquote>
+
+<para>
+<emphasis role="bold">A Crypto nerd's imagination:</emphasis>
+</para>
+<para>
+Cueball: His laptop's encrypted. Let's build a million-dollar cluster to crack it.
+</para>
+<para>
+Friend: No good! It's 4096-bit RSA!
+</para>
+<para>
+Cueball: Blast! Our evil plan is foiled!
+</para>
+
+<para>
+<emphasis role="bold">What would actually happen:</emphasis>
+</para>
+<para>
+Cueball: His laptop's encrypted. Drug him and hit him with this $5 wrench until he tells us the password.
+</para>
+<para>
+Friend : Got it.
+</para>
+
+<para>
+<emphasis role="bold">Hover text:</emphasis>
+Actual actual reality: nobody cares about his secrets. (Also, I would be hard-pressed to find that wrench for $5.)
+</para>
+</blockquote>
 
 <para>
 Moreover as <link
