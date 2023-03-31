@@ -2987,6 +2987,11 @@ Paul Graham about Java:
 
 </orderedlist>
 
+<para>
+( Note that modern Java may have some legitimate use-cases despite having had
+growing pains like these. )
+</para>
+
 </listitem>
 
 <listitem>
@@ -3011,6 +3016,14 @@ essential.
 </listitem>
 
 </orderedlist>
+
+<blockquote>
+<para>
+I expect every cultured person to learn XHTML5 and Python and English. Latin,
+C/C++, and cooking, are optional.
+</para>
+</blockquote>
+
 
 </section>
 
