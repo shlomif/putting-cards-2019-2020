@@ -2998,6 +2998,16 @@ growing pains like these. )
 <para>
 <link xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=chromatic-about-testing-DSLs">chromatic about testing DSLs</link>
 </para>
+
+<blockquote>
+<para>
+Our clients are the parents, guardians, and teachers of children between the ages of eight and twelve inclusive.
+</para>
+
+<para>
+The intent of Cucumber is to make readable testcases, just as the intent of COBOL and AppleScript and visual component programming is to enable non-programmers to create software without having to learn how to program.
+</para>
+</blockquote>
 </listitem>
 
 <listitem>
