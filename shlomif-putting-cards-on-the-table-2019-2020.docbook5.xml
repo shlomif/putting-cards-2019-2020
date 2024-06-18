@@ -1114,12 +1114,6 @@ And now that I have the time, it's amazing.
 Like the old Beatles' song goes <link xlink:href="https://www.youtube.com/watch?v=srwxJUXPHvE"> <quote>I don't care too much for money. Money can't buy me love.</quote></link>.
 </para>
 
-<mediaobject>
-<videoobject>
-<videodata>https://www.youtube.com/embed/srwxJUXPHvE</videodata>
-</videoobject>
-</mediaobject>
-
 </section>
 
 <section xml:id="karma">
@@ -1658,17 +1652,9 @@ work, a novel… all gone, because it *had* to be encrypted.
 </para>
 </blockquote>
 
-<mediaobject>
-<imageobject>
-<imagedata fileref="https://imgs.xkcd.com/comics/security.png" />
-</imageobject>
-<textobject>
-<phrase>xkcd 538</phrase>
-</textobject>
-<caption>
-<para>xkcd 538</para>
-</caption>
-</mediaobject>
+<para>
+<link xlink:href="https://imgs.xkcd.com/comics/security.png">xkcd</link>
+</para>
 
 <blockquote>
 
