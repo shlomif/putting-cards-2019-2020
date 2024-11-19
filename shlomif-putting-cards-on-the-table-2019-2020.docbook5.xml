@@ -3063,6 +3063,13 @@ Also see:
 <para>
 <link xlink:href="https://www.shlomifish.org/philosophy/computers/web/choice-of-docs-formats/#word-processors">A note about word processors</link>
 </para>
+<blockquote>
+<para>
+As I noted in a Reddit comment, word processors are the kind of programs that
+are created by smart people for people who are less smart than them, because
+smart programmers can use text editors and markup languages.
+</para>
+</blockquote>
 </listitem>
 
 <listitem>
@@ -3128,7 +3135,7 @@ The intent of Cucumber is to make readable testcases, just as the intent of COBO
 
 <listitem>
 <para>
-<link xlink:href="https://www.shlomifish.org/meta/FAQ/#how_site_is_generated">Smart software developers can use static site generators</link> - instead of server-side CMSes such as WordPress or Drupal.
+<link xlink:href="https://www.shlomifish.org/meta/FAQ/#how_site_is_generated">Smart software developers can often use static site generators</link> - instead of server-side CMSes such as WordPress or Drupal.
 </para>
 </listitem>
 
