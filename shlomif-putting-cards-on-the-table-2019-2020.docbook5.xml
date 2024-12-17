@@ -3128,7 +3128,7 @@ Our clients are the parents, guardians, and teachers of children between the age
 </para>
 
 <para>
-The intent of Cucumber is to make readable testcases, just as the intent of COBOL and AppleScript and visual component programming is to enable non-programmers to create software without having to learn how to program.
+The intent of Cucumber is to make readable testcases, just as the intent of <link xlink:href="https://en.wikipedia.org/wiki/COBOL">COBOL</link> and <link xlink:href="https://en.wikipedia.org/wiki/AppleScript">AppleScript</link> and <link xlink:href="https://en.wikipedia.org/wiki/Visual_programming_language">visual component programming</link> is to enable non-programmers to create software without having to learn how to program.
 </para>
 </blockquote>
 </listitem>
