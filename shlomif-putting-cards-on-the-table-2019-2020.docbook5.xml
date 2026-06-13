@@ -224,8 +224,15 @@ should not hurt.
 <para>
 As a case study, most cars in my neighbourhood used to not stop for letting
 pedestrians cross. Then I started waving to thank those that did, like I saw
-being done at Scotland. Now most of them do stop. Positive feedback often does
-work.
+being done at Scotland. Now most of them <emphasis
+role="bold">do</emphasis>`stop. Positive feedback often does work.
+<footnote label="Road Etiquette" xml:id="waving-to-automobiles">
+<para>
+In Scotland, many bidirectional roads, were implemented using a single lane,
+which had expansions for one of the cars to park, while letting ones going on
+the opposite direction to pass.
+</para>
+</footnote>
 </para>
 
 </section>
